@@ -8,7 +8,7 @@ const movies = [
     title: "Filmas 1",
     description: "Filmo 1 aprašymas",
     image: "https://images.unsplash.com/photo-1579762689878-ce41dd75ad98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtb3ZpZSUyMHBvc3RlciUyMDF8ZW58MHx8fHwxNzEyMDAxMTYwfDA&ixlib=rb-4.0.3&q=80&w=1080",
-    videoUrl: "https://www.youtube.com/embed/VIDEO_ID_1",
+    videoUrl: "https://www.youtube.com/embed/p-XJuO12jS8",
   },
   {
     id: 2,
